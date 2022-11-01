@@ -4,7 +4,7 @@ Build classifier to detect hate speech from Fox News website.
 
 The dataset is from https://arxiv.org/pdf/1710.07395.pdf
 which contains annotated disussion threads from 10 piece of news on Fox News website. Each comment is provided with surrounding comments.
-This project attempts to usw previous comments as context information to build context-aware classifier to see whether the performance is improved and therefore investigate the influence of context 
+This project attempts to use previous comments as context information to build context-aware classifier to see whether the performance is improved and therefore investigate the influence of context 
 on hate speech detection.
 
 Example:
